@@ -41,7 +41,7 @@ A 3D Unity-based game where the player controls a rolling ball that collects pic
 
 ```
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 Engine: Unity (URP 3D)
 
 - Language: C#
